@@ -1,6 +1,9 @@
+﻿// C++ implementation Zubarev
+#include "stdafx.h"
+#include <iostream>
+#include <ctime>
+#include <iomanip>
 
-// C++ program for implementation of Bubble sort
-#include <bits/stdc++.h>
 using namespace std;
  
 // A function to implement bubble sort
