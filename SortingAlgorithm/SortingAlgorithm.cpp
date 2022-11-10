@@ -1,4 +1,4 @@
-﻿// C++ implementation not of Shell Sort but
+﻿// C++ implementation Zubarev
 #include "stdafx.h"
 #include <iostream>
 #include <ctime>
