@@ -1,4 +1,4 @@
-﻿// C++ implementation not of Shell Sort but more coool
+﻿// C++ implementation not of Shell Sort but more
 #include "stdafx.h"
 #include <iostream>
 #include <ctime>
